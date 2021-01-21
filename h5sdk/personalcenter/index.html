@@ -1,0 +1,49 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"><title>1药网</title><link type=text/css rel=stylesheet href=http://s.maiyaole.com/iconfont/iconfont.css><script type=text/javascript>(function (doc, win) {
+      var docEl = doc.documentElement,
+        isIOS = navigator.userAgent.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/),
+        dpr = isIOS ? Math.min(win.devicePixelRatio, 3) : 1,
+        dpr = window.top === window.self ? dpr : 1, //被iframe引用时，禁止缩放
+        resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize';
+      docEl.dataset.dpr = dpr;
+      var recalc = function () {
+        var width = docEl.clientWidth;
+        if (width / dpr > 750) {
+          width = 750 * dpr;
+        }
+        docEl.dataset.percent = 100;
+        docEl.style.fontSize = width / 10 + 'px';
+      };
+      recalc();
+      if (!doc.addEventListener) return;
+      win.addEventListener(resizeEvt, recalc, false);
+    })(document, window);
+
+    function callback(o) {
+      jsBridge.callback(o)
+    }
+
+    function networkStatusChange() {
+    }
+
+    function userStatusChange() {
+    }
+
+    function fillweb() {
+    }
+
+    function webchange() {
+    }
+
+    function nativeBack() {
+    }
+
+    function loadH5() {
+    }
+
+    function getKeyboardHeight() {
+
+    }
+
+    function otherMethodsBack() {
+
+    }</script><link href=static/css/app.5fe3f990d8503214e75a.css rel=stylesheet></head><body data-ywid=personalCenter><div id=app></div><script src="static/js/vue_libs.js?v=2018102401"></script><script src="static/js/tools.min.v2.js?v=2018102401"></script><script type=text/javascript src=static/js/manifest.f16ba425a5256895f9e4.js></script><script type=text/javascript src=static/js/vendor.47e62498e47f0d5ffa52.js></script><script type=text/javascript src=static/js/app.5fe3f990d8503214e75a.js></script></body></html>

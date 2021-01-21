@@ -1,0 +1,387 @@
+{
+	"msg": "接口成功",
+	"exception": null,
+	"code": 1,
+	"data": {
+		"shopList": [
+			{
+				"shopName": "康弘大药房",
+				"shopIndexUrl": "//yyh.m.111.com.cn/store/387/index.html",
+				"venderId": "000102513207",
+				"shopDiscountAmount": null,
+				"goodWeight": 0.01,
+				"addTime": 1488955529936,
+				"itemList": [
+					{
+						"itemId": 50242030,
+						"productNo": "1601128286",
+						"itemNum": 1,
+						"itemName": "优思明 屈螺酮炔雌醇片 21片",
+						"itemImage": "//p4.maiyaole.com/img/6102/6102860/100_100.jpg?a=436725540",
+						"saleId": 1450746,
+						"venderId": null,
+						"weight": 0.01,
+						"stockNum": 1799,
+						"itemPrice": 105.0,
+						"originalPrice": 105.0,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1488955529936,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": null,
+						"promotionId": null
+					}
+				]
+			}, {
+				"shopName": "惠泽康大药房",
+				"shopIndexUrl": "//yyh.m.111.com.cn/store/871/index.html",
+				"venderId": "000102519852",
+				"shopDiscountAmount": 0.0,
+				"goodWeight": 0.04,
+				"addTime": 1488507091468,
+				"itemList": [
+					{
+						"itemId": 50685221,
+						"productNo": "1601571468",
+						"itemNum": 4,
+						"itemName": "再普乐 奥氮平片 5mg*28片",
+						"itemImage": "//p3.maiyaole.com/img/987/987702/100_100.jpg?a=520589582",
+						"saleId": 2307942,
+						"venderId": null,
+						"weight": 0.1,
+						"stockNum": 94,
+						"itemPrice": 530.0,
+						"originalPrice": 530.0,
+						"itemChecked": 1,
+						"itemType": 1,
+						"addTime": 1488507091468,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": {
+							"promotionInfo": "再买380.00元，可享受满380.0减20.0元",
+							"promotionId": 101592,
+							"schemaType": 11,
+							"mjList": [
+								{
+									"id": 19913,
+									"promotionId": 101592,
+									"type": null,
+									"quantity": 380.0,
+									"price": 20.0,
+									"showName": "满380.0元减20.0元"
+								}
+							]
+						},
+						"promotionId": 101592
+					}, {
+						"itemId": 50675112,
+						"productNo": "1601561359",
+						"itemNum": 2,
+						"itemName": "开封 盐酸环丙沙星片 0.25g*10片",
+						"itemImage": "//p1.maiyaole.com/img/201612/09/100_20161209095644529.jpg",
+						"saleId": 2287344,
+						"venderId": null,
+						"weight": 0.02,
+						"stockNum": 99,
+						"itemPrice": 2.8,
+						"originalPrice": 2.8,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1486435109325,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": {
+							"promotionInfo": "再买374.40元，可享受满380.0减20.0元",
+							"promotionId": 101592,
+							"schemaType": 11,
+							"mjList": [
+								{
+									"id": 19913,
+									"promotionId": 101592,
+									"type": null,
+									"quantity": 380.0,
+									"price": 20.0,
+									"showName": "满380.0元减20.0元"
+								}
+							]
+						},
+						"promotionId": 101592
+					}, {
+						"itemId": 50555376,
+						"productNo": "1601441623",
+						"itemNum": 3,
+						"itemName": "济仁 颅痛宁颗粒 8g*9袋",
+						"itemImage": "//p1.maiyaole.com/img/50098/50098190/100_100.jpg",
+						"saleId": 2102439,
+						"venderId": null,
+						"weight": 0.1,
+						"stockNum": 99,
+						"itemPrice": 22.0,
+						"originalPrice": 22.0,
+						"itemChecked": 1,
+						"itemType": 1,
+						"addTime": 1487831689240,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": {
+							"promotionInfo": "再买380.00元，可享受满380.0减20.0元",
+							"promotionId": 101580,
+							"schemaType": 11,
+							"mjList": [
+								{
+									"id": 19925,
+									"promotionId": 101580,
+									"type": null,
+									"quantity": 380.0,
+									"price": 20.0,
+									"showName": "满380.0元减20.0元"
+								}
+							]
+						},
+						"promotionId": 101580
+					}
+				]
+			}, {
+				"shopName": "新华大药店",
+				"shopIndexUrl": "//yyh.m.111.com.cn/store/458/index.html",
+				"venderId": "000102514516",
+				"shopDiscountAmount": null,
+				"goodWeight": 0.11,
+				"addTime": 1488345011122,
+				"itemList": [
+					{
+						"itemId": 50212167,
+						"productNo": "1601098423",
+						"itemNum": 1,
+						"itemName": "同仁堂 六味地黄丸 9g*10丸",
+						"itemImage": "//p1.maiyaole.com/img/971/971864/100_100.jpg?a=1594072074",
+						"saleId": 1420083,
+						"venderId": null,
+						"weight": 0.11,
+						"stockNum": 99,
+						"itemPrice": 9.85,
+						"originalPrice": 9.85,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1488345011122,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": null,
+						"promotionId": null
+					}
+				]
+			}, {
+				"shopName": "壹心康新特药",
+				"shopIndexUrl": "//yyh.m.111.com.cn/store/1536/index.html",
+				"venderId": "000102532298",
+				"shopDiscountAmount": null,
+				"goodWeight": 1.03,
+				"addTime": 1488260416796,
+				"itemList": [
+					{
+						"itemId": 50697755,
+						"productNo": "1601584002",
+						"itemNum": 1,
+						"itemName": "密盖息 鲑鱼降钙素鼻喷剂 2ml:4400IU/瓶",
+						"itemImage": "//p3.maiyaole.com/img/201612/27/100_20161227110407306.jpg",
+						"saleId": 2328400,
+						"venderId": null,
+						"weight": 0.03,
+						"stockNum": 55,
+						"itemPrice": 290.0,
+						"originalPrice": 290.0,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1488260416796,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": null,
+						"promotionId": null
+					}, {
+						"itemId": 50682212,
+						"productNo": "1601568459",
+						"itemNum": 2,
+						"itemName": "能全力  肠内营养混悬液(TPF) 500ml(1.5Kcal/ml）",
+						"itemImage": "//p1.maiyaole.com/img/201612/15/100_20161215112910384.jpg",
+						"saleId": 2296901,
+						"venderId": null,
+						"weight": 0.5,
+						"stockNum": 88,
+						"itemPrice": 97.5,
+						"originalPrice": 97.5,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1488260331155,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": null,
+						"promotionId": null
+					}
+				]
+			}, {
+				"shopName": "乐和堂大药房",
+				"shopIndexUrl": "//yyh.m.111.com.cn/store/950/index.html",
+				"venderId": "000102520761",
+				"shopDiscountAmount": null,
+				"goodWeight": 0.0,
+				"addTime": 1488260402307,
+				"itemList": [
+					{
+						"itemId": 50480292,
+						"productNo": "1601366540",
+						"itemNum": 1,
+						"itemName": "亚宝 田七痛经胶囊 0.4g*24片",
+						"itemImage": "//p4.maiyaole.com/img/50061/50061718/100_100.jpg?a=1365151460",
+						"saleId": 1952118,
+						"venderId": null,
+						"weight": 0.0,
+						"stockNum": 999,
+						"itemPrice": 11.9,
+						"originalPrice": 11.9,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1488260402307,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": null,
+						"promotionId": null
+					}
+				]
+			}, {
+				"shopName": "德邦医药",
+				"shopIndexUrl": "//yyh.m.111.com.cn/store/297/index.html",
+				"venderId": "000102511535",
+				"shopDiscountAmount": null,
+				"goodWeight": 0.18,
+				"addTime": 1488260363663,
+				"itemList": [
+					{
+						"itemId": 50361221,
+						"productNo": "1601247473",
+						"itemNum": 1,
+						"itemName": "同仁堂 田七补丸 9g*10丸",
+						"itemImage": "//p1.maiyaole.com/img/50059/50059331/100_100.jpg",
+						"saleId": 1635355,
+						"venderId": null,
+						"weight": 0.18,
+						"stockNum": 100,
+						"itemPrice": 34.0,
+						"originalPrice": 34.0,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1488260363663,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": null,
+						"promotionId": null
+					}
+				]
+			}, {
+				"shopName": "千济堂",
+				"shopIndexUrl": "//yyh.m.111.com.cn/store/1426/index.html",
+				"venderId": "000102527429",
+				"shopDiscountAmount": null,
+				"goodWeight": 0.02,
+				"addTime": 1488260295281,
+				"itemList": [
+					{
+						"itemId": 50638418,
+						"productNo": "1601524665",
+						"itemNum": 2,
+						"itemName": "万菲乐 枸橼酸西地那非片 50毫克*10粒；  凡购买就送 ：50毫克*1粒装的 1 盒",
+						"itemImage": "//p2.maiyaole.com/img/50097/50097488/100_100.JPG?a=834035129",
+						"saleId": 2236231,
+						"venderId": null,
+						"weight": 0.01,
+						"stockNum": 185,
+						"itemPrice": 268.0,
+						"originalPrice": 268.0,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1488260295281,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": null,
+						"promotionId": null
+					}
+				]
+			}, {
+				"shopName": "平安医药",
+				"shopIndexUrl": "//yyh.m.111.com.cn/store/633/index.html",
+				"venderId": "000102516869",
+				"shopDiscountAmount": null,
+				"goodWeight": 0.06,
+				"addTime": 1487836160259,
+				"itemList": [
+					{
+						"itemId": 50357800,
+						"productNo": "1601244054",
+						"itemNum": 3,
+						"itemName": "谱乐益 匹多莫德颗粒剂 2g:0.4g*6袋",
+						"itemImage": "//p1.maiyaole.com/img/50003/50003426/100_100.jpg",
+						"saleId": 1631721,
+						"venderId": null,
+						"weight": 0.02,
+						"stockNum": 500,
+						"itemPrice": 20.0,
+						"originalPrice": 20.0,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1487836160259,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": null,
+						"promotionId": 102119
+					}
+				]
+			}, {
+				"shopName": "沧州迎宾大药房连锁有限公司",
+				"shopIndexUrl": "//yyh.m.111.com.cn/store/104/index.html",
+				"venderId": "000102507777",
+				"shopDiscountAmount": null,
+				"goodWeight": 0.02,
+				"addTime": 1486370363018,
+				"itemList": [
+					{
+						"itemId": 50109020,
+						"productNo": "1600995347",
+						"itemNum": 2,
+						"itemName": "三九皮炎平软膏 （20克装）",
+						"itemImage": "//p1.maiyaole.com/img/50100/50100075/100_100.jpg",
+						"saleId": 1146658,
+						"venderId": null,
+						"weight": 0.01,
+						"stockNum": 10,
+						"itemPrice": 9.7,
+						"originalPrice": 9.7,
+						"itemChecked": 0,
+						"itemType": 1,
+						"addTime": 1486370363018,
+						"status": 8,
+						"limitCount": 0,
+						"tcItemList": null,
+						"promotionInfo": null,
+						"promotionId": null
+					}
+				]
+			}
+		],
+		"demandItemCount": 16,
+		"totalItemCount": 23,
+		"cartTotalAmount": 1266.75,
+		"cartDiscountAmount": 0.0,
+		"selectShopCount": 9
+	}
+}

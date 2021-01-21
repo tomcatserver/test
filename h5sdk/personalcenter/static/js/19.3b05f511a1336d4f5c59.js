@@ -1,0 +1,2 @@
+webpackJsonp([19,32],{451:function(e,t,n){n(526);var r=n(119)(n(497),n(604),null,null);e.exports=r.exports},497:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default={name:"amItem",data:function(){return{}}}},526:function(e,t){},604:function(e,t){e.exports={render:function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{attrs:{id:"amItem"}},[n("router-link",{attrs:{to:"/addressManage/3"}},[e._v("地址管理")])],1)},staticRenderFns:[]}}});
+//# sourceMappingURL=19.3b05f511a1336d4f5c59.js.map

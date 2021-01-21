@@ -1,0 +1,179 @@
+{
+    "addressInfo": {
+        "realName": "李然",
+        "mobile": 15072367259,
+        "address": "武汉光谷软件园",
+        "cityName": "武汉"
+    },
+    "isGlobalShopping": 1,
+    "availableCouponcount": 2,
+    "idNum":420222198603180017,
+    "venderpackages":{
+        "venderItemList":[
+            {
+                "venderName": "商家1",
+                "pDetail": [
+                    {
+                        "mainimg6": "https://p3.maiyaole.com/img/50003/50003308/120_120.jpg?a=1083797890",
+                        "productPrice": 123,
+                        "goodsName": "普通商品1",
+                        "productCount": 4,
+                        "orderClass": 1,
+                        "mainId": 11,
+                        "presentList": [
+                            {
+                                "goodsName": "赠品名称1"
+                            },
+                            {
+                                "goodsName": "赠品名称2"
+                            }
+                        ],
+                        "taoCanList": []
+                    }
+                ]
+            },
+
+            {
+                "venderName": "商家2",
+                "pDetail": [
+                    {
+                        "mainimg6": "https://p3.maiyaole.com/img/50003/50003308/120_120.jpg?a=1083797890",
+                        "productPrice": 129,
+                        "goodsName": "普通商品2",
+                        "productCount": 1,
+                        "orderClass": 1,
+                        "mainId": 11
+                    },
+                    {
+                        "mainimg6": "../../assets/img/yyw.png",
+                        "productPrice": 129,
+                        "goodsName": "套餐子品1",
+                        "productCount": 1,
+                        "taoCanName": "套餐名称",
+                        "taoCanId": 1231,
+                        "orderClass": 3,
+                        "mainId": 11
+                    },
+                    {
+                        "mainimg6": "../../assets/img/yyw.png",
+                        "productPrice": 129,
+                        "goodsName": "套餐子品1",
+                        "productCount": 1,
+                        "taoCanName": "套餐名称",
+                        "taoCanId": 1231,
+                        "orderClass": 3,
+                        "mainId": 11
+                    },
+                    {
+                        "mainimg6": "../../assets/img/yyw.png",
+                        "productPrice": 129,
+                        "goodsName": "套餐子品1",
+                        "productCount": 1,
+                        "taoCanName": "套餐名称",
+                        "taoCanId": 1231,
+                        "orderClass": 3,
+                        "mainId": 11
+                    },
+                    {
+                        "mainimg6": "../../assets/img/yyw.png",
+                        "productPrice": 129,
+                        "goodsName": "套餐子品1",
+                        "productCount": 1,
+                        "taoCanName": "套餐名称",
+                        "taoCanId": 1231,
+                        "orderClass": 3,
+                        "mainId": 11
+                    },
+                    {
+                        "mainimg6": "../../assets/img/yyw.png",
+                        "productPrice": 130,
+                        "goodsName": "套餐子品2",
+                        "productCount": 2,
+                        "taoCanName": "套餐名称",
+                        "taoCanId": 1231,
+                        "orderClass": 3,
+                        "mainId": 22
+                    }
+                ]
+            }
+        ]
+    },
+    "itemList": [
+        {
+            "backMoney": 0,      
+            "brandid": 970373,   
+            "catalogid": 963415, 
+            "count": 1,          
+            "itemid": 50097124,  
+            "price": 63,          
+            "promotionAmount": 0,  
+            "useAccountBalance": 0, 
+            "useBalance": 0
+        },
+        {
+            "backMoney": 0,      
+            "brandid": 970373,   
+            "catalogid": 963415, 
+            "count": 1,          
+            "itemid": 50097124,  
+            "price": 63,          
+            "promotionAmount": 0,  
+            "useAccountBalance": 0, 
+            "useBalance": 0
+        }
+    ],
+    "disableCouponItems": [
+        {
+            "itemid": 232,
+            "productName": "北京同仁堂中药固齿",
+            "mainimg4": "http://img.111.com.cn/ddj.jpg",
+            "originalPrice": 23.5,
+            "productNum": 11
+        }
+    ],
+    "productsSellType": 2,
+    "userBalance": 600.00,
+    "canUseBalance": 0,
+    "ismustinvoice": 1,
+    "isElectronicInvoice": false,
+
+    "mpBeans": [{
+        "imgUrl": "https:\/\/p1.maiyaole.com\/img\/50028\/50028129\/120_120.jpg",
+        "productId": 50149140
+    }, {
+        "imgUrl": "https:\/\/p3.maiyaole.com\/img\/50003\/50003308\/120_120.jpg?a=1083797890",
+        "productId": 50290103
+    }, {
+        "imgUrl": "https:\/\/p1.maiyaole.com\/img\/50172\/50172561\/120_120.jpg",
+        "productId": 50210821
+    }, {
+        "imgUrl": "https:\/\/p4.maiyaole.com\/img\/971\/971861\/120_120.jpg?a=1789737685",
+        "productId": 50185470
+    }],
+
+    "goodsMoney": 300.00,
+    "totalPromotionDiscounts": 300.00,
+    "vourcheMoney": 30.00,
+    "balanceMoney": 20.00,
+    "goodsMoney": 300.00,
+    "fare": 10.00,
+
+    "totalOrderAmount": 300.00,
+
+    "changeDateMap":[
+        {
+            "name": "商品名称1",
+            "imgUrl": "https://p3.maiyaole.com/img/50003/50003308/120_120.jpg?a=1083797890"
+        },
+        {
+            "name": "商品名称2",
+            "imgUrl": "https://p3.maiyaole.com/img/50003/50003308/120_120.jpg?a=1083797890"
+        },
+        {
+            "name": "商品名称3",
+            "imgUrl": "https://p3.maiyaole.com/img/50003/50003308/120_120.jpg?a=1083797890"
+        }
+    ]
+    
+    
+}
